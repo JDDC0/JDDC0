@@ -1,0 +1,8 @@
+img.tamaño{
+    width:150px;
+    height:150px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    border: 1px solid black;
+}
